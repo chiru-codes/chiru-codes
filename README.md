@@ -6,6 +6,7 @@
 ### Languages I use:
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
+### About me:
 <table>
   <tr>
     <td width="60%">
