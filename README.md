@@ -7,7 +7,7 @@
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
 <p align="center">
-  <img src="[https://media0.giphy.com/media/j0yDs1uIaBD8LrlwId/200w.gif?cid=6c09b95204piw7yhmtgiogk4noy9cb2mxw9vgjfpgh1omhkw&ep=v1_stickers_search&rid=200w.gif&ct=s" alt="Coding girl gif](https://media.tenor.com/iAIpFk-5FMkAAAAM/potchama-happy.gif)" width="100"/>
+  <img src="https://media.tenor.com/6yf6njsT-TUAAAAM/piplup-pokemon.gif" width="300"/>
 </p>
 
 ### About me:
