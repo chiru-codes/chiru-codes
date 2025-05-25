@@ -7,7 +7,7 @@
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
 <p align="center">
-  <img src="https://media.tenor.com/6yf6njsT-TUAAAAM/piplup-pokemon.gif" width="300"/>
+  <img src="https://i.pinimg.com/originals/5f/1d/61/5f1d6140b7cbe5d520230b6fb7a3d815.gif" width="100"/>
 </p>
 
 ### About me:
