@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript&logoColor=FFD700)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=5EEAD4)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1D3557?style=plastic&logo=typescript&logoColor=A8DADC)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=black&color=0077FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0077FF?style=plastic&logo=typescript&logoColor=black&color=000000)
 
 
 
