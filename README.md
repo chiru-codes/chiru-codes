@@ -2,7 +2,7 @@
 <p align="center"><strong>Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling</strong></p>
 
 ### Languages I use:
-(｡- .•) `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
+જ⁀➴ `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
 ### About me:
 <table>
