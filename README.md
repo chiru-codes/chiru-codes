@@ -9,7 +9,7 @@
 ### About me:
 <table>
   <tr>
-    <td width="60%">
+    <td width="10%">
       
 - 🔭 I’m currently working on improving my coding and math skills.  
 - 🌱 Currently learning advanced programming with C++: OOP, concurrency, algorithms and complex data structures.  
