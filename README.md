@@ -4,11 +4,12 @@
 ### What do I use?
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
-![Python](https://img.shields.io/badge/Python-89CFF0?style=plastic&logo=python&logoColor=FFE066)
-![C++](https://img.shields.io/badge/C++-4682B4?style=plastic&logo=c%2b%2b&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE066?style=plastic&logo=javascript&logoColor=2F4550)
-![Node.js](https://img.shields.io/badge/Node.js-62B6CB?style=plastic&logo=node.js&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-5FA8D3?style=plastic&logo=typescript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-1D3557?style=plastic&logo=python&logoColor=E63946)
+![C++](https://img.shields.io/badge/C++-457B9D?style=plastic&logo=c%2b%2b&logoColor=E63946)
+![JavaScript](https://img.shields.io/badge/JavaScript-E63946?style=plastic&logo=javascript&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-A8DADC?style=plastic&logo=typescript&logoColor=1D3557)
+
 
 ### About me:
 <table>
