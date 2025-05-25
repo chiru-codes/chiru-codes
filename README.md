@@ -5,7 +5,9 @@
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
 ![Python](https://img.shields.io/badge/Python-1D3557?style=plastic&logo=python&logoColor=E63946)
-![C++](https://img.shields.io/badge/C++-457B9D?style=plastic&logo=c%2b%2b&logoColor=E63946)
+![C++](https://img.shields.io/badge/C++-0066CC?style=plastic&logo=c%2b%2b&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-1E90FF?style=plastic&logo=c%2b%2b&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-0077FF?style=plastic&logo=c%2b%2b&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E63946?style=plastic&logo=javascript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-A8DADC?style=plastic&logo=typescript&logoColor=1D3557)
