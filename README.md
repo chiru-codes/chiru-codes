@@ -16,7 +16,7 @@
 
 </td>
     <td align="center">
-      <img src="https://i.pinimg.com/originals/5f/1d/61/5f1d6140b7cbe5d520230b6fb7a3d815.gif" width="250"/>
+      <img src="https://i.gifer.com/IYDl.gif" width="250"/>
     </td>
   </tr>
 </table>
