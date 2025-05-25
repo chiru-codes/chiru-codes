@@ -2,7 +2,6 @@
 <p align="center"><strong>Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling</strong></p>
 
 ### What do I use?
-`Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
 ![Python](https://img.shields.io/badge/Python-1D3557?style=plastic&logo=python&logoColor=40E0D0)
 ![C++](https://img.shields.io/badge/C++-0077FF?style=plastic&logo=c%2b%2b&logoColor=ffffff)
