@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-1D3557?style=plastic&logo=python&logoColor=40E0D0)
 ![C++](https://img.shields.io/badge/C++-0077FF?style=plastic&logo=c%2b%2b&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=plastic&logo=javascript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript&logoColor=FFD700)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=plastic&logo=node.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-A8DADC?style=plastic&logo=typescript&logoColor=1D3557)
 
