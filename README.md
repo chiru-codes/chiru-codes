@@ -3,6 +3,7 @@
 
 ### What do I use?
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=plastic&logo=typescript&logoColor=white)
