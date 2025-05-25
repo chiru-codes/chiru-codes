@@ -1,4 +1,4 @@
-## Hi there 👋
+## ⌞A wild comp-sci student has appeared.ᐟ ⌝
 
 - 🔭 I’m currently working on improve my coding and math skills.
 - 🌱 I’m currently learning advanced programming with C++, including OOP, concurrency, algorithms and complex data structures.
