@@ -1,6 +1,6 @@
 ## ⌞A wild comp-sci student has appeared.ᐟ ⌝
 <p align="center">
-  Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling
+  **Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling**
 </p>
 
 ### Languages I use:
