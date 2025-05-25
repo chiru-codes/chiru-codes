@@ -18,7 +18,7 @@ About me:
 
 </td>
     <td align="center">
-      <img src="https://i.pinimg.com/originals/5f/1d/61/5f1d6140b7cbe5d520230b6fb7a3d815.gif" width="400"/>
+      <img src="https://i.pinimg.com/originals/5f/1d/61/5f1d6140b7cbe5d520230b6fb7a3d815.gif" width="450"/>
     </td>
   </tr>
 </table>
