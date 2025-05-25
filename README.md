@@ -4,6 +4,10 @@
 ### What do I use?
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+
 ### About me:
 <table>
   <tr>
