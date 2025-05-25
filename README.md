@@ -9,7 +9,7 @@
   <tr>
     <td width="70%">
       
-- 🔭 I’m currently working on improving my coding and math skills.  
+- 🔭 Working on improving my coding and math skills.  
 - 🌊 Currently learning advanced programming with C++: OOP, concurrency, algorithms and complex data structures.  
 - 🫧 I’m looking to collaborate in the open source community.  
 - ❄️ Fun fact: I love Piplup, theater plays and amazing animated films.  
