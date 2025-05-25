@@ -12,9 +12,9 @@
     <td width="70%">
       
 - 🔭 I’m currently working on improving my coding and math skills.  
-- 🌱 Currently learning advanced programming with C++: OOP, concurrency, algorithms and complex data structures.  
-- 🚀 I’m looking to collaborate in the open source community.  
-- ⚡ Fun fact: I love Piplup (yes, the Pokémon), theater plays, and beautiful animated films.  
+- 🌊 Currently learning advanced programming with C++: OOP, concurrency, algorithms and complex data structures.  
+- 🫧 I’m looking to collaborate in the open source community.  
+- ❄️ Fun fact: I love Piplup (yes, the Pokémon), theater plays, and beautiful animated films.  
 
 </td>
     <td align="center">
