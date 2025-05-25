@@ -1,7 +1,7 @@
 ## ⌞A wild comp-sci student has appeared.ᐟ ⌝
 <p align="center"><strong>Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling</strong></p>
 
-### Languages I use:
+### Languages I use (｡- .•):
 `Python` • `C++` • `JavaScript` • `TypeScript` • `Node.js`
 
 ### About me:
