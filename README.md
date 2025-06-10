@@ -1,5 +1,5 @@
 ## ⌞A wild comp-sci student has appeared.ᐟ ⌝
-<p align="center"><strong>Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling</strong></p>
+<p align="center"><strong>Algorithms and advanced structures • Low-level optimization • Simulation and interactive modeling • Frontend development</strong></p>
 
 ### What do I use?
 
