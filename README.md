@@ -5,7 +5,6 @@
 
 ![Python](https://img.shields.io/badge/Python-1D3557?style=plastic&logo=python&logoColor=40E0D0)
 ![C++](https://img.shields.io/badge/C++-0077FF?style=plastic&logo=c%2b%2b&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=plastic&logo=typescript&logoColor=A8DADC)
 
 ### About me:
 <table>
