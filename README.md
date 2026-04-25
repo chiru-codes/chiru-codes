@@ -1,5 +1,5 @@
 ## ⌞A wild comp-sci student has appeared.ᐟ ⌝
-<p align="center"><strong>Real-time rendering • Low-level optimization • Physics simulation • Computer vision & 3D reconstruction</strong></p>
+<p align="center"><strong> Graphics Programming • Computer vision</strong></p>
 
 ### What I use:
 
@@ -7,9 +7,9 @@
 ![C++](https://img.shields.io/badge/C++-0077FF?style=plastic&logo=c%2b%2b&logoColor=ffffff)
 
 ### Technical interests:
+- Procedural generation
 - Real-time graphics and engine internals
 - GPU programming and parallel algorithms
-- Physics-based simulation (particles, fluids, rigid bodies)
 - Geometry processing & 3D reconstruction
 
 ### About me:
@@ -17,9 +17,8 @@
   <tr>
     <td width="70%">
       
-- 🔭 Improving my skills in algorithms, math and high-performance C++.  
-- 🌊 Learning advanced C++: OOP, concurrency, algorithms and complex data structures.
-- 🫧 I’m looking to collaborate in open-source projects related to graphics, physics, or tooling.
+- 🔭 Improving my skills in algorithms, math and high-performance C++.
+- 🫧 I’m looking to collaborate in open-source projects related to graphics.
 - ❄️ Fun fact: I love Piplup, theater and amazing animated films.  
 
 </td>
